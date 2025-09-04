@@ -31,7 +31,7 @@ A fully functional **web application** built with **Django** and **Django REST F
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/class-management-system.git
+git clone https://github.com/ihabiba/Class-Management-System
 cd class-management-system
 ```
 
